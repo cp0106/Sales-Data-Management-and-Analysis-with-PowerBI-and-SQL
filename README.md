@@ -9,4 +9,4 @@ Performed advanced analytics with SQL to extract valuable insights to improve sa
 Enabled real-time access to dashboards and reports for effective management.
 The project enhanced sales data management, empowering the company to make informed decisions. Key achievements included the creation of visualizations, DAX functions, and pivot tables. The deliverables included a documented report, SQL files, and a PowerBI report.
 
-# Business Intelligence, Data Management, Data Analysis, PowerBI, SQL, Sales Data, Data Transformation, Dashboard Design, DAX Functions, Data Visualization, MySQL Database, Sales Strategy Optimization.
+## Business Intelligence, Data Management, Data Analysis, PowerBI, SQL, Sales Data, Data Transformation, Dashboard Design, DAX Functions, Data Visualization, MySQL Database, Sales Strategy Optimization.
